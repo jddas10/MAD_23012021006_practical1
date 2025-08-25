@@ -20,17 +20,17 @@ This practical covers the foundational concepts of Android development including
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Practical 1](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/Screenshot%202025-08-24%20144432.png) | Android Studio welcome screen and initial setup |
-| ![Practical 2](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/Screenshot%202025-08-24%20144542.png) | New Project creation wizard in Android Studio |
-| ![Practical 3](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/Screenshot%202025-08-24%20144555.png) | Project configuration and package structure setup |
-| ![Practical 4](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/Screenshot%202025-08-24%20144602.png) | Target Android device selection and SDK configuration |
-| ![Practical 5](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/Screenshot%202025-08-24%20144610.png) | Activity template selection for the project |
-| ![Practical 6](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/Screenshot%202025-08-24%20144619.png) | Activity customization and layout naming |
-| ![Practical 7](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/Screenshot%202025-08-24%20144628.png) | Android project structure overview in Android Studio |
-| ![Practical 8](https://github.com/BhavyaPatel272004/23012021031_MAD_Practical_1/blob/master/screensort/Practical%208.png) | XML layout design interface with preview panel |
-| ![Practical 9](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/Screenshot%202025-08-24%20144652.png) | MainActivity Java/Kotlin code implementation |
-| ![Practical 10](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/Screenshot%202025-08-24%20144700.png) | Android Virtual Device (AVD) Manager configuration |
-| ![Practical 11](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/Screenshot%202025-08-24%20144821.png) | Application running successfully on Android emulator |
+| ![Practical 1](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/ScreenShot/Screenshot%202025-08-25%20105132.png) | Android Studio welcome screen and initial setup |
+| ![Practical 2](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/ScreenShot/Screenshot%202025-08-25%20105259.png) | New Project creation wizard in Android Studio |
+| ![Practical 3](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/ScreenShot/Screenshot%202025-08-25%20105425.png) | Project configuration and package structure setup |
+| ![Practical 4](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/ScreenShot/Screenshot%202025-08-25%20105513.png) | Target Android device selection and SDK configuration |
+| ![Practical 5](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/ScreenShot/Screenshot%202025-08-25%20105544.png) | Activity template selection for the project |
+| ![Practical 6](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/ScreenShot/Screenshot%202025-08-25%20105620.png) | Activity customization and layout naming |
+| ![Practical 7](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/ScreenShot/Screenshot%202025-08-25%20105656.png) | Android project structure overview in Android Studio |
+| ![Practical 8](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/ScreenShot/Screenshot%202025-08-25%20105748.png) | XML layout design interface with preview panel |
+| ![Practical 9](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/ScreenShot/Screenshot%202025-08-25%20105844.png) | MainActivity Java/Kotlin code implementation |
+| ![Practical 10](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/ScreenShot/Screenshot%202025-08-25%20105918.png) | Android Virtual Device (AVD) Manager configuration |
+| ![Practical 11](https://github.com/jddas10/MAD_23012021006_practical1/blob/master/ScreenShot/Screenshot%202025-08-25%20110027.png) | Application running successfully on Android emulator |
 
 ## Implementation Details
 The practical demonstrates the complete process of:
